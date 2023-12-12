@@ -1,0 +1,11 @@
+1.download project laravel
+2.install lib midtrans = composer require midtrans/midtrans-php
+3. buat file midtrans.php di folder config
+4. copy struktur dari app.php
+5. Setting database migratisi
+6.
+
+
+Run ngrok di linux
+
+pindah direktori --> cd /opt/lampp/htdocs/LaravelMidtrans
