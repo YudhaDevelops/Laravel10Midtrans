@@ -6,6 +6,8 @@
 6.
 
 
-Run ngrok di linux
-
-pindah direktori --> cd /opt/lampp/htdocs/LaravelMidtrans
+Pindah ke laragon enak buat cek pake midtrans
+pake webhook
+jalanin perintah
+1. php -S localhost:8000 -t Laravel10Midtrans/public
+2. ngrok http localhost:8000
